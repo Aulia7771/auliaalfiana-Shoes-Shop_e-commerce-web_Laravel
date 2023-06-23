@@ -1,0 +1,92 @@
+.bg-secondary {
+    background-color: #193a6f !important;
+}
+
+.copyright {
+    background-color: #11224d;
+}
+
+.bg-primary {
+    background-color: #5b84c4 !important;
+}
+
+nav {
+    font-weight: 700;
+}
+
+.img-card {
+    height: 18vw;
+    object-fit: cover;
+}
+
+.description {
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
+
+.author {
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
+
+.logo {
+    height: 30px;
+    margin-right: 10px;
+}
+
+.card {
+    border-width: 2px;
+    border-style: solid;
+    border-color: #d4e3fa;
+}
+
+.card .btn {
+    box-shadow: 0 9px 11px rgba(2, 40, 74, 0.2); 
+}
+
+.input-group-text {
+    background-color: #b1b4bd; 
+    color: #ffffff; 
+}
+
+.btn {
+    border-radius: 18px; 
+}
+
+.center {
+    text-align: center;
+}
+
+#search-box {
+    background-color: #dde3ef; /* Mengubah warna latar belakang */
+    color: #333333; /* Mengubah warna teks */
+    border: 2px solid #c9def0; /* Mengubah garis batas */
+    border-radius: 10px; /* Mengubah sudut border (memberi tampilan membulat) */
+    padding: 5px 15px; /* Memberikan ruang bawah dan ruang samping dalam kolom pencarian */
+    width: 450px; /* Mengubah lebar kolom pencarian */
+}
+
+.custom-button {
+    background-color: #99aedc; /* Mengubah warna latar belakang */
+    color: #333333; /* Mengubah warna teks */
+    border: 2px solid #c9def0; /* Mengubah garis batas */
+    border-radius: 10px; /* Mengubah sudut border (memberi tampilan membulat) */
+    padding: 5px 10px; /* Memberikan ruang bawah dan ruang samping dalam kolom pencarian */
+    width: 50px; /* Mengubah lebar kolom pencarian */
+    cursor: pointer; /* Ganti tampilan kursor saat diarahkan ke tombol */
+    /* Tambahkan gaya lain yang Anda inginkan */
+}
+
+.search-container {
+    display: flex;
+    align-items: center;
+}
+
+#search-box {
+    margin-right: 10px; /* Tambahkan margin kanan sesuai kebutuhan Anda */
+}
+
+#map {
+    height: 400px;
+    width: 100%;
+}
