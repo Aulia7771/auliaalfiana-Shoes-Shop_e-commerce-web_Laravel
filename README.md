@@ -1,5 +1,6 @@
-Hasil praktikum
+## Hasil Praktikum
 ![Screenshot 2023-07-11 085149](https://github.com/Aulia7771/auliaalfiana-Shoes-Shop_e-commerce-web_Laravel/assets/114818053/e4188f8d-25cb-493a-bb86-42d1fbe7d819)
+
 ![Screenshot 2023-07-11 085208](https://github.com/Aulia7771/auliaalfiana-Shoes-Shop_e-commerce-web_Laravel/assets/114818053/dbe81d5a-ad9e-4d24-9939-1ab88352dcb4)
 
 
